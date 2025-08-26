@@ -1,0 +1,411 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "NeetCodeRoadmap",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "3_sums::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3_sums-Debug-225e83104eb4ad6436e5.json",
+					"name" : "3_sums",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Best_Time::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Best_Time-Debug-ac36cf1bf1b2f5665f94.json",
+					"name" : "Best_Time",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Binary_Search::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Binary_Search-Debug-3ca16bc80bc654cb002a.json",
+					"name" : "Binary_Search",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Car_Fleet::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Car_Fleet-Debug-0c0948415bdf37e5a195.json",
+					"name" : "Car_Fleet",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Coin_Change::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Coin_Change-Debug-d57686cb95d6bac71e01.json",
+					"name" : "Coin_Change",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Combination_Sum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Combination_Sum-Debug-faef9e322a1f1a2f57f8.json",
+					"name" : "Combination_Sum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Combinatoin_Sum_II::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Combinatoin_Sum_II-Debug-5eb9b20ede65a22e78e8.json",
+					"name" : "Combinatoin_Sum_II",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Daily_Temperatures::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Daily_Temperatures-Debug-88c0c87a3be891b6a60a.json",
+					"name" : "Daily_Temperatures",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Encode_and_Decode::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Encode_and_Decode-Debug-52406369a649b0962921.json",
+					"name" : "Encode_and_Decode",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Evaluate_Polish_Notation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Evaluate_Polish_Notation-Debug-ee68d7c8fd2737f32dee.json",
+					"name" : "Evaluate_Polish_Notation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Find_Minimum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Find_Minimum-Debug-60881ee21c63364fec17.json",
+					"name" : "Find_Minimum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Generate_Parentheses::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Generate_Parentheses-Debug-59e956857828bbb445ab.json",
+					"name" : "Generate_Parentheses",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Group_Anagrams::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Group_Anagrams-Debug-f590b923a0e592aa386e.json",
+					"name" : "Group_Anagrams",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Koko_Eating_Bananas::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Koko_Eating_Bananas-Debug-091d0c4a5f40b087f3c7.json",
+					"name" : "Koko_Eating_Bananas",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Largest_Rectangle_In_Histogram::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Largest_Rectangle_In_Histogram-Debug-3ba1710f9d8a384059c1.json",
+					"name" : "Largest_Rectangle_In_Histogram",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Longest_Consecutive_Sequence::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Longest_Consecutive_Sequence-Debug-25555472b860692eda67.json",
+					"name" : "Longest_Consecutive_Sequence",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Longest_Substring::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Longest_Substring-Debug-aee1389c595d35914280.json",
+					"name" : "Longest_Substring",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Median_Of_2_Sorted_Arrays::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Median_Of_2_Sorted_Arrays-Debug-92dc106deed20a518c26.json",
+					"name" : "Median_Of_2_Sorted_Arrays",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Min_Stack::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Min_Stack-Debug-d3eb73f25d5edf7edaaa.json",
+					"name" : "Min_Stack",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Permutations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Permutations-Debug-51404826823e9133e6f5.json",
+					"name" : "Permutations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Product_Except_Self::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Product_Except_Self-Debug-d03dae839a56032c5a59.json",
+					"name" : "Product_Except_Self",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Search_In_Rotated_Sorted_Array::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Search_In_Rotated_Sorted_Array-Debug-6ae0c2cdb9261cdadda7.json",
+					"name" : "Search_In_Rotated_Sorted_Array",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Search_a_2D_Matrix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Search_a_2D_Matrix-Debug-e704d38237bccc6d24d8.json",
+					"name" : "Search_a_2D_Matrix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Time_Based_Store::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Time_Based_Store-Debug-a50b463b8f674b904aac.json",
+					"name" : "Time_Based_Store",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Top_K_Frequent_Elements::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Top_K_Frequent_Elements-Debug-e93f6e9cdd3bccf8b407.json",
+					"name" : "Top_K_Frequent_Elements",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Trapping_Rain_Water::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Trapping_Rain_Water-Debug-d7d2afdf6a37763d326b.json",
+					"name" : "Trapping_Rain_Water",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Two_Sum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Two_Sum-Debug-e1578fcf38d7b3f6ff5f.json",
+					"name" : "Two_Sum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Valid_Anagram::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Valid_Anagram-Debug-527c7d28d1893ea6354d.json",
+					"name" : "Valid_Anagram",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Valid_Parentheses::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Valid_Parentheses-Debug-e7046c93390f41dc4305.json",
+					"name" : "Valid_Parentheses",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Valid_Sudoku::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Valid_Sudoku-Debug-2525a2a39459d3b28acc.json",
+					"name" : "Valid_Sudoku",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "__Longest_Increasing_Subsequence::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-__Longest_Increasing_Subsequence-Debug-515f4241504ca3a5165d.json",
+					"name" : "__Longest_Increasing_Subsequence",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "container_with_most_water::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-container_with_most_water-Debug-c27ae5c52901a9451c65.json",
+					"name" : "container_with_most_water",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "contains_duplicate::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-contains_duplicate-Debug-90f665c2e299bd6ac2aa.json",
+					"name" : "contains_duplicate",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "longest_common_subsequence::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-longest_common_subsequence-Debug-8699052d2e8926a3a442.json",
+					"name" : "longest_common_subsequence",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "optimized_permutation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-optimized_permutation-Debug-bd4ba061cc250c35b56f.json",
+					"name" : "optimized_permutation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "playing::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-playing-Debug-2de903ed20bfa7105f82.json",
+					"name" : "playing",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "subsets::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-subsets-Debug-11c1c2b1b4b7c88c5c12.json",
+					"name" : "subsets",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "two_sum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-two_sum-Debug-c8ade26770f92d788f3c.json",
+					"name" : "two_sum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unique_paths::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unique_paths-Debug-855ddb979db058a7a20f.json",
+					"name" : "unique_paths",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "valid_palindrome::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-valid_palindrome-Debug-25f0c36472d04dadc572.json",
+					"name" : "valid_palindrome",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Summer Training 2025 (Problem Solving)/leetcode/NeetCodeRoadmap/cmake-build-debug",
+		"source" : "D:/Summer Training 2025 (Problem Solving)/leetcode/NeetCodeRoadmap"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
