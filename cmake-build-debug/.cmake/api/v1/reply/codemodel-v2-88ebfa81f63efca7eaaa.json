@@ -54,7 +54,10 @@
 						36,
 						37,
 						38,
-						39
+						39,
+						40,
+						41,
+						42
 					]
 				}
 			],
@@ -108,7 +111,10 @@
 						36,
 						37,
 						38,
-						39
+						39,
+						40,
+						41,
+						42
 					]
 				}
 			],
@@ -228,6 +234,20 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "Longest_Palindromic_Subsequence::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Longest_Palindromic_Subsequence-Debug-7c6c77655d5f0cb3ac2f.json",
+					"name" : "Longest_Palindromic_Subsequence",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Longest_Palindromic_Substring::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Longest_Palindromic_Substring-Debug-ac88a1dd7fec367d4b1f.json",
+					"name" : "Longest_Palindromic_Substring",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "Longest_Substring::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Longest_Substring-Debug-aee1389c595d35914280.json",
 					"name" : "Longest_Substring",
@@ -245,6 +265,13 @@
 					"id" : "Min_Stack::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Min_Stack-Debug-d3eb73f25d5edf7edaaa.json",
 					"name" : "Min_Stack",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Palindromic_Substrings::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Palindromic_Substrings-Debug-caadbad8592f9936c409.json",
+					"name" : "Palindromic_Substrings",
 					"projectIndex" : 0
 				},
 				{

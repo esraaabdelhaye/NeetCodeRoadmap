@@ -43,3 +43,6 @@ add_executable(__Longest_Increasing_Subsequence "1-D Dynamic Programming/Longest
 add_executable(Coin_Change "1-D Dynamic Programming/Coin Change.cpp")
 add_executable(Best_Time "Sliding Window/Best Time to Buy and Sell Stock.cpp")
 add_executable(Longest_Substring "Sliding Window/Longest Substring Without Repeating Characters.cpp")
+add_executable(Palindromic_Substrings "1-D Dynamic Programming/Palindromic Substrings.cpp")
+add_executable(Longest_Palindromic_Substring "1-D Dynamic Programming/Longest Palindromic Substring.cpp")
+add_executable(Longest_Palindromic_Subsequence "2-D Dynamic Programming/Longest Palindromic Subsequence.cpp")
