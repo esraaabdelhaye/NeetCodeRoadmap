@@ -46,3 +46,6 @@ add_executable(Longest_Substring "Sliding Window/Longest Substring Without Repea
 add_executable(Palindromic_Substrings "1-D Dynamic Programming/Palindromic Substrings.cpp")
 add_executable(Longest_Palindromic_Substring "1-D Dynamic Programming/Longest Palindromic Substring.cpp")
 add_executable(Longest_Palindromic_Subsequence "2-D Dynamic Programming/Longest Palindromic Subsequence.cpp")
+add_executable(Subsets_2 "Backtracking/Subsets II.cpp")
+add_executable(Climbing_Stairs "1-D Dynamic Programming/Climbing Stairs.cpp")
+add_executable(Min_Cost_Climbing_Stairs "1-D Dynamic Programming/Min Cost Climbing Stairs.cpp")

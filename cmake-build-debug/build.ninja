@@ -1459,6 +1459,105 @@ build Longest_Palindromic_Subsequence.exe: CXX_EXECUTABLE_LINKER__Longest_Palind
   TARGET_IMPLIB = libLongest_Palindromic_Subsequence.dll.a
   TARGET_PDB = Longest_Palindromic_Subsequence.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Subsets_2
+
+
+#############################################
+# Order-only phony target for Subsets_2
+
+build cmake_object_order_depends_target_Subsets_2: phony || .
+
+build CMakeFiles/Subsets_2.dir/Backtracking/Subsets_II.cpp.obj: CXX_COMPILER__Subsets_2_unscanned_Debug D$:/Summer$ Training$ 2025$ (Problem$ Solving)/leetcode/NeetCodeRoadmap/Backtracking/Subsets$ II.cpp || cmake_object_order_depends_target_Subsets_2
+  DEP_FILE = CMakeFiles\Subsets_2.dir\Backtracking\Subsets_II.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Subsets_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Subsets_2.dir\Backtracking
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Subsets_2
+
+
+#############################################
+# Link the executable Subsets_2.exe
+
+build Subsets_2.exe: CXX_EXECUTABLE_LINKER__Subsets_2_Debug CMakeFiles/Subsets_2.dir/Backtracking/Subsets_II.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Subsets_2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Subsets_2.exe
+  TARGET_IMPLIB = libSubsets_2.dll.a
+  TARGET_PDB = Subsets_2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Climbing_Stairs
+
+
+#############################################
+# Order-only phony target for Climbing_Stairs
+
+build cmake_object_order_depends_target_Climbing_Stairs: phony || .
+
+build CMakeFiles/Climbing_Stairs.dir/1-D_Dynamic_Programming/Climbing_Stairs.cpp.obj: CXX_COMPILER__Climbing_Stairs_unscanned_Debug D$:/Summer$ Training$ 2025$ (Problem$ Solving)/leetcode/NeetCodeRoadmap/1-D$ Dynamic$ Programming/Climbing$ Stairs.cpp || cmake_object_order_depends_target_Climbing_Stairs
+  DEP_FILE = CMakeFiles\Climbing_Stairs.dir\1-D_Dynamic_Programming\Climbing_Stairs.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Climbing_Stairs.dir
+  OBJECT_FILE_DIR = CMakeFiles\Climbing_Stairs.dir\1-D_Dynamic_Programming
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Climbing_Stairs
+
+
+#############################################
+# Link the executable Climbing_Stairs.exe
+
+build Climbing_Stairs.exe: CXX_EXECUTABLE_LINKER__Climbing_Stairs_Debug CMakeFiles/Climbing_Stairs.dir/1-D_Dynamic_Programming/Climbing_Stairs.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Climbing_Stairs.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Climbing_Stairs.exe
+  TARGET_IMPLIB = libClimbing_Stairs.dll.a
+  TARGET_PDB = Climbing_Stairs.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Min_Cost_Climbing_Stairs
+
+
+#############################################
+# Order-only phony target for Min_Cost_Climbing_Stairs
+
+build cmake_object_order_depends_target_Min_Cost_Climbing_Stairs: phony || .
+
+build CMakeFiles/Min_Cost_Climbing_Stairs.dir/1-D_Dynamic_Programming/Min_Cost_Climbing_Stairs.cpp.obj: CXX_COMPILER__Min_Cost_Climbing_Stairs_unscanned_Debug D$:/Summer$ Training$ 2025$ (Problem$ Solving)/leetcode/NeetCodeRoadmap/1-D$ Dynamic$ Programming/Min$ Cost$ Climbing$ Stairs.cpp || cmake_object_order_depends_target_Min_Cost_Climbing_Stairs
+  DEP_FILE = CMakeFiles\Min_Cost_Climbing_Stairs.dir\1-D_Dynamic_Programming\Min_Cost_Climbing_Stairs.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Min_Cost_Climbing_Stairs.dir
+  OBJECT_FILE_DIR = CMakeFiles\Min_Cost_Climbing_Stairs.dir\1-D_Dynamic_Programming
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Min_Cost_Climbing_Stairs
+
+
+#############################################
+# Link the executable Min_Cost_Climbing_Stairs.exe
+
+build Min_Cost_Climbing_Stairs.exe: CXX_EXECUTABLE_LINKER__Min_Cost_Climbing_Stairs_Debug CMakeFiles/Min_Cost_Climbing_Stairs.dir/1-D_Dynamic_Programming/Min_Cost_Climbing_Stairs.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Min_Cost_Climbing_Stairs.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Min_Cost_Climbing_Stairs.exe
+  TARGET_IMPLIB = libMin_Cost_Climbing_Stairs.dll.a
+  TARGET_PDB = Min_Cost_Climbing_Stairs.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -1493,6 +1592,8 @@ build Binary_Search: phony Binary_Search.exe
 
 build Car_Fleet: phony Car_Fleet.exe
 
+build Climbing_Stairs: phony Climbing_Stairs.exe
+
 build Coin_Change: phony Coin_Change.exe
 
 build Combination_Sum: phony Combination_Sum.exe
@@ -1525,6 +1626,8 @@ build Longest_Substring: phony Longest_Substring.exe
 
 build Median_Of_2_Sorted_Arrays: phony Median_Of_2_Sorted_Arrays.exe
 
+build Min_Cost_Climbing_Stairs: phony Min_Cost_Climbing_Stairs.exe
+
 build Min_Stack: phony Min_Stack.exe
 
 build Palindromic_Substrings: phony Palindromic_Substrings.exe
@@ -1536,6 +1639,8 @@ build Product_Except_Self: phony Product_Except_Self.exe
 build Search_In_Rotated_Sorted_Array: phony Search_In_Rotated_Sorted_Array.exe
 
 build Search_a_2D_Matrix: phony Search_a_2D_Matrix.exe
+
+build Subsets_2: phony Subsets_2.exe
 
 build Time_Based_Store: phony Time_Based_Store.exe
 
@@ -1579,7 +1684,7 @@ build valid_palindrome: phony valid_palindrome.exe
 #############################################
 # Folder: D:/Summer Training 2025 (Problem Solving)/leetcode/NeetCodeRoadmap/cmake-build-debug
 
-build all: phony contains_duplicate.exe Valid_Anagram.exe Two_Sum.exe Group_Anagrams.exe Top_K_Frequent_Elements.exe Encode_and_Decode.exe Combination_Sum.exe subsets.exe playing.exe Combinatoin_Sum_II.exe Permutations.exe optimized_permutation.exe Longest_Consecutive_Sequence.exe Product_Except_Self.exe Valid_Sudoku.exe valid_palindrome.exe unique_paths.exe two_sum.exe longest_common_subsequence.exe 3_sums.exe container_with_most_water.exe Trapping_Rain_Water.exe Valid_Parentheses.exe Min_Stack.exe Evaluate_Polish_Notation.exe Generate_Parentheses.exe Daily_Temperatures.exe Car_Fleet.exe Largest_Rectangle_In_Histogram.exe Binary_Search.exe Search_a_2D_Matrix.exe Find_Minimum.exe Koko_Eating_Bananas.exe Search_In_Rotated_Sorted_Array.exe Median_Of_2_Sorted_Arrays.exe Time_Based_Store.exe __Longest_Increasing_Subsequence.exe Coin_Change.exe Best_Time.exe Longest_Substring.exe Palindromic_Substrings.exe Longest_Palindromic_Substring.exe Longest_Palindromic_Subsequence.exe
+build all: phony contains_duplicate.exe Valid_Anagram.exe Two_Sum.exe Group_Anagrams.exe Top_K_Frequent_Elements.exe Encode_and_Decode.exe Combination_Sum.exe subsets.exe playing.exe Combinatoin_Sum_II.exe Permutations.exe optimized_permutation.exe Longest_Consecutive_Sequence.exe Product_Except_Self.exe Valid_Sudoku.exe valid_palindrome.exe unique_paths.exe two_sum.exe longest_common_subsequence.exe 3_sums.exe container_with_most_water.exe Trapping_Rain_Water.exe Valid_Parentheses.exe Min_Stack.exe Evaluate_Polish_Notation.exe Generate_Parentheses.exe Daily_Temperatures.exe Car_Fleet.exe Largest_Rectangle_In_Histogram.exe Binary_Search.exe Search_a_2D_Matrix.exe Find_Minimum.exe Koko_Eating_Bananas.exe Search_In_Rotated_Sorted_Array.exe Median_Of_2_Sorted_Arrays.exe Time_Based_Store.exe __Longest_Increasing_Subsequence.exe Coin_Change.exe Best_Time.exe Longest_Substring.exe Palindromic_Substrings.exe Longest_Palindromic_Substring.exe Longest_Palindromic_Subsequence.exe Subsets_2.exe Climbing_Stairs.exe Min_Cost_Climbing_Stairs.exe
 
 # =============================================================================
 # Built-in targets

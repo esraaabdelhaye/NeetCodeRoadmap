@@ -57,7 +57,10 @@
 						39,
 						40,
 						41,
-						42
+						42,
+						43,
+						44,
+						45
 					]
 				}
 			],
@@ -114,7 +117,10 @@
 						39,
 						40,
 						41,
-						42
+						42,
+						43,
+						44,
+						45
 					]
 				}
 			],
@@ -146,6 +152,13 @@
 					"id" : "Car_Fleet::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Car_Fleet-Debug-0c0948415bdf37e5a195.json",
 					"name" : "Car_Fleet",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Climbing_Stairs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Climbing_Stairs-Debug-a165d728748e9842a9ab.json",
+					"name" : "Climbing_Stairs",
 					"projectIndex" : 0
 				},
 				{
@@ -262,6 +275,13 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "Min_Cost_Climbing_Stairs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Min_Cost_Climbing_Stairs-Debug-56640ed269a2d561b9a8.json",
+					"name" : "Min_Cost_Climbing_Stairs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "Min_Stack::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Min_Stack-Debug-d3eb73f25d5edf7edaaa.json",
 					"name" : "Min_Stack",
@@ -300,6 +320,13 @@
 					"id" : "Search_a_2D_Matrix::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Search_a_2D_Matrix-Debug-e704d38237bccc6d24d8.json",
 					"name" : "Search_a_2D_Matrix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Subsets_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Subsets_2-Debug-6162c47bc752588e118a.json",
+					"name" : "Subsets_2",
 					"projectIndex" : 0
 				},
 				{
